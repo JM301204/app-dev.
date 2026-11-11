@@ -1,2 +1,8 @@
 # app-dev.
-My first repository
+## FAV MOVIES
+1. AVENGERS
+2. ONE PIECE
+3. DEVIL MAY CRY
+- AVENGERS
+- ONE PIECE
+- DEVIL MAY CRY
